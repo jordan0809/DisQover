@@ -10,7 +10,7 @@ readme = "README.md"
 authors = [
   { name="Chia-Tso Lai", email="chiatso.lai@jos-quantum.de" },
 ]
- requires-python = ">=3.8"
+requires-python = ">=3.8"
 
 dependencies = [
     "numpy",
